@@ -3,6 +3,25 @@
     <channel>
         <title>Meso</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Mon, 12 Oct 2026 07:55:29 +0800</pubDate>
+            <link>https://github.com/linmi/meso/releases</link>
+            <sparkle:version>529</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Meso 0.2.1
+
+**Improved**
+- Open app actions switch back: when the app is already in front, the same gesture, button or recipe hides it and returns to the app you were using.
+
+Requires macOS 14 or later. Ports, cables and displays need a Mac with Apple silicon.
+]]></description>
+            <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.1/Meso-0.2.1.zip" length="18254732" type="application/octet-stream" sparkle:edSignature="FFTl8UPNR3llFxHUPiFVwzJ2yYyHF9kcts3AazXcH3KBN5xyZ6P6ZKoQnWSg2ocFh8yf/Ol0nbMmBiD40w4ADA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.1/Meso529-521.delta" sparkle:deltaFrom="521" length="888494" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qhd9iOpdTRVOHQZ52UTbxN1WJystL4ndCZzslblO9rh5588x05e2h6kj6BUueqtp3JCaAKN1j/vytwQFnNUeBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Mon, 12 Oct 2026 07:24:07 +0800</pubDate>
             <link>https://github.com/linmi/meso/releases</link>
@@ -10,6 +29,8 @@
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[## Meso 0.2.0
+
+Mose is now **Meso**. This version can't update itself from Mose: download Meso once from [meso.ac](https://meso.ac) and open it. Your settings, recipes, paired computers and AI keys move over on their own. You can then delete Mose.
 
 **New**
 - Welcome tour: try a few scene recipes as you set up, turn on the ones you like, and choose to open Meso at login.
