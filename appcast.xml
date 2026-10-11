@@ -2,5 +2,32 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Meso</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Mon, 12 Oct 2026 07:24:07 +0800</pubDate>
+            <link>https://github.com/linmi/meso/releases</link>
+            <sparkle:version>521</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Meso 0.2.0
+
+Mose is now **Meso**. This version can't update itself from Mose: download Meso once from [meso.ac](https://meso.ac) and open it. Your settings, recipes, paired computers and AI keys move over on their own. You can then delete Mose.
+
+**New**
+- Welcome tour: try a few scene recipes as you set up, turn on the ones you like, and choose to open Meso at login.
+
+**Improved**
+- Trackpad place gestures: the title bar, Dock and menu bar are drawn on your own desktop picture with the apps from your own Dock, and each gesture plays where it happens.
+- Scene Recipes: trackpad and keyboard recipes come first, the device tabs stay at the top while you scroll, the page responds faster, and each picture presses its control in time with the effect.
+- The sidebar keeps Cables folded, with a count, and shows a reader's picture and a laptop badge on built-in devices.
+- Sending a folder of thousands of files starts sooner, and memory is given back after large transfers.
+
+**Fixed**
+- Left half and right half didn't move the window.
+
+Requires macOS 14 or later. Ports, cables and displays need a Mac with Apple silicon.
+]]></description>
+            <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.0/Meso-0.2.0.zip" length="18255112" type="application/octet-stream" sparkle:edSignature="YWExhNUgKnraQFnLTfvT8TnDAyNAZhcm8JfWJU1DQ7dcunn/3kKEJV0UOQWiFgB7BJrNZgPWiy+Avcgtk80dBA=="/>
+        </item>
     </channel>
 </rss>
