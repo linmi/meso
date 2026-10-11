@@ -11,8 +11,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[## Meso 0.2.0
 
-Mose is now **Meso**. This version can't update itself from Mose: download Meso once from [meso.ac](https://meso.ac) and open it. Your settings, recipes, paired computers and AI keys move over on their own. You can then delete Mose.
-
 **New**
 - Welcome tour: try a few scene recipes as you set up, turn on the ones you like, and choose to open Meso at login.
 
