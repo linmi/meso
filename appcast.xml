@@ -3,6 +3,43 @@
     <channel>
         <title>Meso</title>
         <item>
+            <title>0.2.2</title>
+            <pubDate>Tue, 13 Oct 2026 23:56:35 +0800</pubDate>
+            <link>https://github.com/linmi/meso/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>839</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Meso 0.2.2 Beta
+
+This is a beta: new features arrive here first, before they've had as much testing. To go back, pick Stable in Settings › Updates › Update channel, and Meso moves over with the next stable version.
+
+**New**
+- Time: Meso can keep track of what you work on, if you turn it on. See your day on a timeline, sort time into projects, search everything, add entries or run a timer, and export to CSV, JSON, Excel or PDF. It can also show your calendars and Reminders, and summarise your day with AI.
+- Keyboards: hold any key as a modifier, press two keys together as a chord, give a key a double tap, use sticky modifiers or hold a key to switch to a layer of your own. Hold and tap timing can be set per keyboard, and a key inspector shows what each press sends.
+- Profiles by input source: keys can do something different for each input source.
+- Displays: a new display page with brightness and colour, picture, input switching and modes.
+- Remotes: any Android TV voice remote and the Chromecast Voice Remote work for voice input with one press. A Xiaomi remote's power key can be mapped.
+- Siri Remote (third generation): its microphone can be used for voice input while the Siri button is held. Turning it on asks for administrator approval once.
+- Voice input: Meso switches to the voice app's input source while it listens and presses its key the way that app expects. Recipes now cover Doubao and Typeless.
+- Your data: Settings › Data shows what Meso keeps on this Mac and lets you delete each kind. Export everything to one file, optionally protected with a passphrase, and import it on another Mac.
+- Usage receipts print your name, your day count and streak with Meso, and your longest stretch of the day.
+
+**Improved**
+- Meso uses far less memory: pages that briefly used about 300 MB while drawing now stay around 50–90 MB.
+- Settings opens faster in German, Japanese, Korean and Chinese.
+- Meso's files are kept in one tidy folder. They move there automatically the first time this version starts.
+- Recipes: the recipe panel floats over the recipes instead of squeezing them.
+
+Requires macOS 14 or later. Ports, cables and displays need a Mac with Apple silicon.
+]]></description>
+            <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2-beta.839/Meso-0.2.2-beta.839.zip" length="27495162" type="application/octet-stream" sparkle:edSignature="0bzobY+jt4wQbkijsnEYWEp/X94gMBgHIaO1N/W6+7tmepoOvEKsZDhLBiBraIS3k/er2RtS/iBnaiER0MgECw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2-beta.839/Meso839-529.delta" sparkle:deltaFrom="529" length="13281378" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="W5PK1rBb2+6Ed3uxsigCLbcMP59aCYX2tN7ngEe+Daj/PV1Z4nLzBACGchiLqO4T1fA+vTIaFRaZiwMY/yLZBg=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2-beta.839/Meso839-521.delta" sparkle:deltaFrom="521" length="13286574" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Z8Lx3VE7xecFjGduPPcIapxUIo/3zYUMkZzbxdiuncER0k++jo4QzDMVew0YOSEK6Oj1041j1Ei0FGBOtBPwBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Mon, 12 Oct 2026 07:55:29 +0800</pubDate>
             <link>https://github.com/linmi/meso/releases</link>
