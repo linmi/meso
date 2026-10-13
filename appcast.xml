@@ -4,6 +4,44 @@
         <title>Meso</title>
         <item>
             <title>0.2.2</title>
+            <pubDate>Wed, 14 Oct 2026 00:26:10 +0800</pubDate>
+            <link>https://github.com/linmi/meso/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>843</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Meso 0.2.2 Beta
+
+This is a beta: new features arrive here first, before they've had as much testing. To go back, pick Stable in Settings › Updates › Update channel, and Meso moves over with the next stable version.
+
+**New**
+- Time: Meso can keep track of what you work on, if you turn it on. See your day on a timeline, sort time into projects, search everything, add entries or run a timer, and export to CSV, JSON, Excel or PDF. It can also show your calendars and Reminders, and summarise your day with AI.
+- Keyboards: hold any key as a modifier, press two keys together as a chord, give a key a double tap, use sticky modifiers or hold a key to switch to a layer of your own. Hold and tap timing can be set per keyboard, and a key inspector shows what each press sends.
+- Profiles by input source: keys can do something different for each input source.
+- Displays: a new display page with brightness and colour, picture, input switching and modes.
+- Remotes: any Android TV voice remote and the Chromecast Voice Remote work for voice input with one press. A Xiaomi remote's power key can be mapped.
+- Siri Remote (third generation): its microphone can be used for voice input while the Siri button is held. Turning it on asks for administrator approval once.
+- Voice input: Meso switches to the voice app's input source while it listens and presses its key the way that app expects. Recipes now cover Doubao and Typeless.
+- Your data: Settings › Data shows what Meso keeps on this Mac and lets you delete each kind. Export everything to one file, optionally protected with a passphrase, and import it on another Mac.
+- Usage receipts print your name, your day count and streak with Meso, and your longest stretch of the day.
+
+**Improved**
+- Meso uses far less memory: pages that briefly used about 300 MB while drawing now stay around 50–90 MB.
+- Settings opens faster in German, Japanese, Korean and Chinese.
+- Meso's files are kept in one tidy folder. They move there automatically the first time this version starts.
+- Recipes: the recipe panel floats over the recipes instead of squeezing them.
+
+Requires macOS 14 or later. Ports, cables and displays need a Mac with Apple silicon.
+]]></description>
+            <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2-beta.843/Meso-0.2.2-beta.843.zip" length="27532322" type="application/octet-stream" sparkle:edSignature="lyBuo173bay3cxVL7Db89zXiCZLr+sbI5oIzqXk9l1Wls55a9woqPoT+LIcMv2fb2SVL367B/0HvOfh/881bCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2-beta.843/Meso843-839.delta" sparkle:deltaFrom="839" length="2805950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NgIUAA1557LKD9U7DktY5AmmC+6j/M7m/L79uSmCv7kcdwwflQxxEZZ6VtGYZYEkFkABDYTuJMt76EpFoDI8CQ=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2-beta.843/Meso843-529.delta" sparkle:deltaFrom="529" length="13331790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="m8enOHjGTsI5T5VHwLftfBiblCCC3SjixabWuZyBHDm9Qi+20gYJYTGtQw3jSPNF/7BW7FXQok+a38IswXlMBw=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2-beta.843/Meso843-521.delta" sparkle:deltaFrom="521" length="13323110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rNoZC5FqHNiNui5KYTSY5Q/f5L42fDDYdA1AcW040rkzyq9ePDPHmG2aDvFIrjrcorXXons6FxNY5yn2ITbACw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.2.2</title>
             <pubDate>Tue, 13 Oct 2026 23:56:35 +0800</pubDate>
             <link>https://github.com/linmi/meso/releases</link>
             <sparkle:channel>beta</sparkle:channel>
