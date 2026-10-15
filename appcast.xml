@@ -4,6 +4,61 @@
         <title>Meso</title>
         <item>
             <title>0.2.2</title>
+            <pubDate>Thu, 15 Oct 2026 22:52:31 +0800</pubDate>
+            <link>https://github.com/linmi/meso/releases</link>
+            <sparkle:version>1154</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Meso 0.2.2
+
+**New**
+- Action Sequences: one press can run several actions in order, with pauses between them. Set them on mouse buttons, keyboard keys, trackpad gestures, remotes and game controllers, and run them from Quick Actions and the menu bar. New actions to go with them: mute or unmute the microphone, set the volume, and turn a Focus on or off.
+- Time: Meso can keep track of what you work on, if you turn it on. See your day on a timeline, sort time into projects, search everything, add entries or run a timer, and export to CSV, JSON, Excel or PDF. Click an entry to see its details beside the list. It can also show your calendars and Reminders, summarise your day with AI, and after you've been away, ask what you were doing with its best guess first.
+- Translate: ask several translation services at once and compare their answers side by side, replace the selected text with a translation, or get three versions from a language model. Selected text can be translated automatically if you turn it on, and Translate with Meso works from the Services menu. On macOS 15 or later, Apple's on-device translation is one of the services.
+- Prevent Sleep: keep the Mac awake for a while or by your own rules, from the menu bar or Settings.
+- Menu bar: pick what it shows and in what order in Settings › Menu Bar: switches at the top, quick actions (now 12 built in), devices, and a card for each display. Quick actions run right from the menu and show how they're doing.
+- Kindle: a Kindle page with the device, its details, your highlights and your whole library, each book with its cover and reading progress. New highlights are exported to Obsidian, Markdown or Notes when you plug it in, and books you send get their covers.
+- Keyboards: hold any key as a modifier, press two keys together as a chord, give a key a double tap, use sticky modifiers or hold a key to switch to a layer of your own. Hold and tap timing can be set per keyboard, and a key inspector shows what each press sends.
+- Profiles by input source: keys can do something different for each input source.
+- Recipes: Meeting Mode mutes the microphone when you join a call. New keyboard recipes: a Hyper key to arrange windows, Space + H J K L as arrow keys, left and right ⌘ to switch input sources, double-tapped modifiers, J + K pressed together for Escape, and ⌘ next to the space bar on a PC keyboard.
+- Trackpad strokes: draw a letter or shape on the trackpad to run an action. It's off until you turn it on in the trackpad page's Strokes view. Pick how a stroke starts (rest one finger, hold a key, or pause, then draw), and record strokes of your own.
+- Trackpad: a corner can be a single, double or triple tap.
+- Displays: a new display page with brightness and colour, picture, input switching and modes.
+- Remotes: any Android TV voice remote and the Chromecast Voice Remote work for voice input with one press. A Xiaomi remote's power key can be mapped.
+- Siri Remote (third generation): its microphone can be used for voice input while the Siri button is held. Turning it on asks for administrator approval once.
+- Voice input: Meso switches to the voice app's input source while it listens and presses its key the way that app expects. Recipes now cover Doubao and Typeless.
+- Your data: Settings › Data shows what Meso keeps on this Mac and lets you delete each kind. Export everything to one file, optionally protected with a passphrase, and import it on another Mac.
+- Settings opens in its own window (⌘,), with categories and search.
+- Usage receipts print your name, your day count and streak with Meso, and your longest stretch of the day.
+
+**Improved**
+- Input Monitoring and Screen Recording work as soon as you allow them, without restarting Meso.
+- Meso uses far less memory: pages that briefly used about 300 MB while drawing now stay around 50–90 MB.
+- Long pages scroll more smoothly, Time and the Kindle library among them.
+- Settings opens faster in German, Japanese, Korean and Chinese.
+- PC keyboards are drawn with their own key order.
+- Keyboards say when remapped keys are paused, because Accessibility is off or another app has Secure Input on.
+- The AI card shows which service is answering while its answer is on the way, and can be dragged anywhere.
+- Logs are kept across quits and restarts, and Settings › About can export them to send with a problem report.
+- The sidebar has an Apps section below your devices, where Time now lives.
+- Meso's files are kept in one tidy folder. They move there automatically the first time this version starts.
+- A more consistent look: type, lines, glass panels and hover highlights now match across every page.
+- In full screen, no blank band covers the top of the window.
+- Recipes: the recipe panel floats over the recipes instead of squeezing them.
+
+Requires macOS 14 or later. Ports, cables and displays need a Mac with Apple silicon.
+]]></description>
+            <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2/Meso-0.2.2.zip" length="34829887" type="application/octet-stream" sparkle:edSignature="vDm2JBxPylKjkYcMVUllA7J4QXdv6yjNPD9JO6C6NNwdaTTPUAGiRT3TmpHMtXpHzvgb4ABcjjkjzcUnRRPEDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2/Meso1154-1083.delta" sparkle:deltaFrom="1083" length="7210974" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="G2Gztzmal/rblx9SVD24v7javb0vtJgg/sr3kJ7dOPOsyAON0T3DPmVu/oedMVJxjmUiU1J4rj1id986BZEgCA=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2/Meso1154-1072.delta" sparkle:deltaFrom="1072" length="9090810" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uHhkpWgKHmHjhBwM7c8GOGfvwjpGsdXNTwDx1fLls5gO2UE1vCOqaqDHxB4mrepeNU2TWs8bwx1eFUrUPA9NCg=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2/Meso1154-870.delta" sparkle:deltaFrom="870" length="12679230" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jBCtG5tYxRYnfxMTRPDG5UCpzHxfpephwyyGvfuoulHBRPUXStyC7T6YcfIa1rlTqXTfJSHuO64p4a4mmxWoBA=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2/Meso1154-843.delta" sparkle:deltaFrom="843" length="14104546" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uWUtx27DArubNajede0Y4UvvDqVnR0lYxRsGGe3qqU+8AMwz+EzShJbJsr1L1+PcqaaebLS92dLMzF5yb30GAA=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2/Meso1154-839.delta" sparkle:deltaFrom="839" length="14140734" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="On8WPVDWpnxvpOFBoZH3fP+ORezTkI9vzZA/0y6q/axRgNGR/8nHgV3kIOXh6JIhHitSORMcY5lO/yY9F0YmCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.2.2</title>
             <pubDate>Thu, 15 Oct 2026 12:02:28 +0800</pubDate>
             <link>https://github.com/linmi/meso/releases</link>
             <sparkle:channel>beta</sparkle:channel>
@@ -56,104 +111,6 @@ Requires macOS 14 or later. Ports, cables and displays need a Mac with Apple sil
                 <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2-beta.1083/Meso1083-843.delta" sparkle:deltaFrom="843" length="12489490" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hejVweHe37P1q9xCadyRJfYzlEJYSnpa1tkcBMFplfLt8BpC9Cmgj/i4JPP8DIhhtfcgkqNMjp4uPklO9xPyBA=="/>
                 <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2-beta.1083/Meso1083-839.delta" sparkle:deltaFrom="839" length="12527154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7b1BGXOvYV1CQRBXYeLeSFuYrOk7ElySzos4GrjaGPt0TojPDpUfP6zKl/WyUMwoWXpxiGQOHvBibQB083V2Bw=="/>
                 <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2-beta.1083/Meso1083-529.delta" sparkle:deltaFrom="529" length="19311366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DnOiHeqXiWt3jM9LfRdanBLtn7Yi0q/GhLyOmcqxKd4neE5icMQmrk3wz8VL/wIcfg799bPNbmzpjAfvHhhpCg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.2</title>
-            <pubDate>Thu, 15 Oct 2026 02:05:27 +0800</pubDate>
-            <link>https://github.com/linmi/meso/releases</link>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>1072</sparkle:version>
-            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## Meso 0.2.2 Beta
-
-This is a beta: new features arrive here first, before they've had as much testing. To go back, pick Stable in Settings › Updates › Update channel, and Meso moves over with the next stable version.
-
-**New**
-- Action Sequences: one press can run several actions in order, with pauses between them. Set them on mouse buttons, keyboard keys, trackpad gestures, remotes and game controllers, and run them from Quick Actions and the menu bar. New actions to go with them: mute or unmute the microphone, set the volume, and turn a Focus on or off.
-- Prevent Sleep: keep the Mac awake for a while or by your own rules, from the menu bar or Settings.
-- Menu bar: pick what it shows and in what order in Settings › Menu Bar: switches at the top, quick actions (now 12 built in), devices, and a card for each display. Quick actions run right from the menu and show how they're doing.
-- Kindle: a Kindle page with the device, its details and your highlights. New highlights are exported to Obsidian, Markdown or Notes when you plug it in, and books you send get their covers.
-- Recipes: Meeting Mode mutes the microphone when you join a call. New keyboard recipes: a Hyper key to arrange windows, Space + H J K L as arrow keys, left and right ⌘ to switch input sources, double-tapped modifiers, and J + K pressed together for Escape.
-- Trackpad: a corner can be a single, double or triple tap.
-- Time: after you've been away, Meso asks what you were doing and offers its best guess first.
-- Time: Meso can keep track of what you work on, if you turn it on. See your day on a timeline, sort time into projects, search everything, add entries or run a timer, and export to CSV, JSON, Excel or PDF. It can also show your calendars and Reminders, and summarise your day with AI.
-- Keyboards: hold any key as a modifier, press two keys together as a chord, give a key a double tap, use sticky modifiers or hold a key to switch to a layer of your own. Hold and tap timing can be set per keyboard, and a key inspector shows what each press sends.
-- Profiles by input source: keys can do something different for each input source.
-- Displays: a new display page with brightness and colour, picture, input switching and modes.
-- Remotes: any Android TV voice remote and the Chromecast Voice Remote work for voice input with one press. A Xiaomi remote's power key can be mapped.
-- Siri Remote (third generation): its microphone can be used for voice input while the Siri button is held. Turning it on asks for administrator approval once.
-- Voice input: Meso switches to the voice app's input source while it listens and presses its key the way that app expects. Recipes now cover Doubao and Typeless.
-- Your data: Settings › Data shows what Meso keeps on this Mac and lets you delete each kind. Export everything to one file, optionally protected with a passphrase, and import it on another Mac.
-- Trackpad strokes: draw a letter or shape on the trackpad to run an action. It's off until you turn it on in the trackpad page's Strokes view. Pick how a stroke starts (rest one finger, hold a key, or pause, then draw), and record strokes of your own.
-- Settings opens in its own window (⌘,), with categories and search.
-- Usage receipts print your name, your day count and streak with Meso, and your longest stretch of the day.
-
-**Improved**
-- Input Monitoring and Screen Recording work as soon as you allow them, without restarting Meso.
-- In full screen, no blank band covers the top of the window.
-- The sidebar has an Apps section below your devices, where Time now lives.
-- Meso uses far less memory: pages that briefly used about 300 MB while drawing now stay around 50–90 MB.
-- Settings opens faster in German, Japanese, Korean and Chinese.
-- Meso's files are kept in one tidy folder. They move there automatically the first time this version starts.
-- A more consistent look: type, lines, glass panels and hover highlights now match across every page.
-- Recipes: the recipe panel floats over the recipes instead of squeezing them.
-
-**If you used Siri Remote audio in an earlier beta**
-- Its helper is now called MesoHelper. Remove the old one first: in System Settings › General › Login Items & Extensions, turn off MesoPacketLogger (or run `sudo launchctl bootout system/ac.meso.app.packetlogger` in Terminal). Then turn the remote's microphone on again in Meso and allow MesoHelper once.
-
-Requires macOS 14 or later. Ports, cables and displays need a Mac with Apple silicon.
-]]></description>
-            <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2-beta.1072/Meso-0.2.2-beta.1072.zip" length="32246147" type="application/octet-stream" sparkle:edSignature="PMjkrS4uhmgOfYBl0k9/C26gbBaayAXYPWzV55qd6PqYweErMAQG+m01PYlUeCsth4xeOfTKY+6RaODHlX/DAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2-beta.1072/Meso1072-870.delta" sparkle:deltaFrom="870" length="9889602" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pAOgcZZj5yXAMREjpi2UwyLv2bFozrWavFR07PetiEEEabBDjnS3hoDMi5DIB+Jg0JXDy/vtWyLoAfbxg0YXBw=="/>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2-beta.1072/Meso1072-843.delta" sparkle:deltaFrom="843" length="11487150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UWpUnglk+KJmFgx+NXa2QAM6i3zn76czlcpa6HKlGJKOgeIYx1kRnHKkHyKPPnJEe/F3Qlw1UfkfU6ZOa+CYAQ=="/>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2-beta.1072/Meso1072-839.delta" sparkle:deltaFrom="839" length="11514058" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aBPEAJ954Gi19SyxtHukfgmPiqb25Cw5pq/WbptAGj6nvVJYaOlvybTmSGQoIuf1grFwjywVwpsQo277VK1NAA=="/>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2-beta.1072/Meso1072-529.delta" sparkle:deltaFrom="529" length="18354158" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="P/BfIEvU84HFRmWX2Dg4ebHp3GIHbkFOMIjrzIanUJNEHxDz8HkkMxLscd9V+CM8MD4DOVVvWJlLXSTfZkpHDw=="/>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2-beta.1072/Meso1072-521.delta" sparkle:deltaFrom="521" length="18335226" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4K1pBF9uYEPFESor5BrIH09SpR3eIqgrIeEhBnFHFwal8XMyrR/zIyoZrcff9hhhaXRa/p+l2dNPaotBgSo2Ag=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.2</title>
-            <pubDate>Wed, 14 Oct 2026 08:40:13 +0800</pubDate>
-            <link>https://github.com/linmi/meso/releases</link>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>870</sparkle:version>
-            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## Meso 0.2.2 Beta
-
-This is a beta: new features arrive here first, before they've had as much testing. To go back, pick Stable in Settings › Updates › Update channel, and Meso moves over with the next stable version.
-
-**New**
-- Time: Meso can keep track of what you work on, if you turn it on. See your day on a timeline, sort time into projects, search everything, add entries or run a timer, and export to CSV, JSON, Excel or PDF. It can also show your calendars and Reminders, and summarise your day with AI.
-- Keyboards: hold any key as a modifier, press two keys together as a chord, give a key a double tap, use sticky modifiers or hold a key to switch to a layer of your own. Hold and tap timing can be set per keyboard, and a key inspector shows what each press sends.
-- Profiles by input source: keys can do something different for each input source.
-- Displays: a new display page with brightness and colour, picture, input switching and modes.
-- Remotes: any Android TV voice remote and the Chromecast Voice Remote work for voice input with one press. A Xiaomi remote's power key can be mapped.
-- Siri Remote (third generation): its microphone can be used for voice input while the Siri button is held. Turning it on asks for administrator approval once.
-- Voice input: Meso switches to the voice app's input source while it listens and presses its key the way that app expects. Recipes now cover Doubao and Typeless.
-- Your data: Settings › Data shows what Meso keeps on this Mac and lets you delete each kind. Export everything to one file, optionally protected with a passphrase, and import it on another Mac.
-- Trackpad strokes: draw a letter or shape on the trackpad to run an action. It's off until you turn it on in the trackpad page's Strokes view. Pick how a stroke starts (rest one finger, hold a key, or pause, then draw), and record strokes of your own.
-- Settings opens in its own window (⌘,), with categories and search.
-- Usage receipts print your name, your day count and streak with Meso, and your longest stretch of the day.
-
-**Improved**
-- Meso uses far less memory: pages that briefly used about 300 MB while drawing now stay around 50–90 MB.
-- Settings opens faster in German, Japanese, Korean and Chinese.
-- Meso's files are kept in one tidy folder. They move there automatically the first time this version starts.
-- A more consistent look: type, lines, glass panels and hover highlights now match across every page.
-- Recipes: the recipe panel floats over the recipes instead of squeezing them.
-
-Requires macOS 14 or later. Ports, cables and displays need a Mac with Apple silicon.
-]]></description>
-            <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2-beta.870/Meso-0.2.2-beta.870.zip" length="27841296" type="application/octet-stream" sparkle:edSignature="fYtJhE9KGbYcn++hSMaUsqJ04rnTPW+SG6aZ/x8daMO0ESPndHlkptOhWniSQ0En6WAg8zPortBzlEPS4bp+AQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2-beta.870/Meso870-843.delta" sparkle:deltaFrom="843" length="5715486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UgUQlNOAcm8n3d2p8CNlIJ2h/OrmUf63q+MuFDcqKIX86cRlSMlihykF0eyLB7PnCCU6WZ+ydnxWkSXIM9lXDg=="/>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2-beta.870/Meso870-839.delta" sparkle:deltaFrom="839" length="5837074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CWVo4AD5jCfZbNFAwdLA+G0PrmdG1vcT51gGVsYPBhe+fOifxiOgiVoQxej3VdYMm1Gg1THc9AkQb64d2zN9DQ=="/>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2-beta.870/Meso870-529.delta" sparkle:deltaFrom="529" length="14325282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="v+gjksLN48WzBOQtJ60xx/JYAhhRUMBGwLszEfLtzTajcFBeGEeazh70vQ6wRlZtwIyzWVTi5CqnM7WvBVmxCA=="/>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.2-beta.870/Meso870-521.delta" sparkle:deltaFrom="521" length="14325042" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ITBDZLkk+aXP80rQwuBXSeeY2RxDCyhDTYQaI2101QaNZI1gV+3ngIqgs8M3iiO58CXa23vi7tGTrjVzIB89Cg=="/>
             </sparkle:deltas>
         </item>
         <item>
