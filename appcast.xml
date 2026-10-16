@@ -3,6 +3,41 @@
     <channel>
         <title>Meso</title>
         <item>
+            <title>0.2.3</title>
+            <pubDate>Fri, 16 Oct 2026 13:48:44 +0800</pubDate>
+            <link>https://github.com/linmi/meso/releases</link>
+            <sparkle:version>1226</sparkle:version>
+            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Meso 0.2.3
+
+**New**
+- Move windows from anywhere: hold a key set to Move Windows, or a mouse button set to Move window while held, and drag the window under the pointer. Double-click while holding to fill the screen and back. Right-click a window while holding for a menu of places: halves, quarters, thirds, maximize, center and full screen. Recipes set it up on Caps Lock, or on a mouse's gesture button or wheel, and apps can be left out.
+- Drag to place window: hold a mouse button and move to aim the window at a half, a quarter, the full screen or another display. The pointer shows where it will land, the window moves there as you aim, and Esc puts it back. The Drag windows into place recipe puts it on the wheel.
+- Key sequences: press keys one after another, such as Hyper then W, to run an action. Set them up in the keyboard page's new Sequences view, by recording them or clicking the keys.
+- Typed words: type a short word anywhere, such as ;sig, to insert a piece of text or today's date, or to run an action. Words can work in every app or in one app.
+- Keys pressed with modifiers: a key can run an action of its own when pressed with modifiers held. Add them in the key panel under Pressed with modifiers.
+- Import from BetterTouchTool: Settings › Data › Import… takes a BetterTouchTool preset and shows what comes over before anything changes: trackpad gestures, mouse buttons, keyboard shortcuts, key sequences and typed words.
+
+**Improved**
+- The AI card keeps one width, never covers the text you selected, and no longer shrinks while it shows.
+- Text selected on a web page keeps its paragraphs.
+- Recipes: a built-in recipe can go on another key, button or gesture of the same kind, and is saved to Mine when you use it.
+- Settings made for every keyboard or mouse now also apply to ones you haven't set up yet.
+- Trackpad: with Ignore taps while typing on, a thumb resting in a top corner while you type no longer runs that corner's hold, and a corner tapped again and again runs once.
+
+Requires macOS 14 or later. Ports, cables and displays need a Mac with Apple silicon.
+]]></description>
+            <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.3/Meso-0.2.3.zip" length="36644670" type="application/octet-stream" sparkle:edSignature="PXFdlTVqbtd/2VvRE/hOqgvM3Rrt56DFyZ7J93Lc3IYPqDnjtjTO6eQFOhv2wuS3p9pvg1XpqWwK087qt8GvDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.3/Meso1226-1154.delta" sparkle:deltaFrom="1154" length="8135866" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BEHMc89CrGVKrKmw67wIFgFrzMa3QHe8iNaVDKyTyKLZ+nY4KwINnNUqlmSL572v924cKHXOpLNQtiHoyjKFCQ=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.3/Meso1226-1083.delta" sparkle:deltaFrom="1083" length="10285422" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aHYhnVtuvESDFXVxdjT79K7g3bH8Ghiiyox88ueX0LNmlVOphr1Opm6C9dwHbKkis53jLqBPJy0hWfKxvVk9BA=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.3/Meso1226-1072.delta" sparkle:deltaFrom="1072" length="11706778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="26P8HgdSMS8R/UDObii3IblV3EWSrzvSRZSAsieyEDHyVYfpgtjFZsOWKl63a4RdKa1lZelyz9q4eJMTUFRLAg=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.3/Meso1226-870.delta" sparkle:deltaFrom="870" length="14731306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4mfufHcycaFJ4ldODYRAgT9u/XlVw6eFOwqTWh8xcjOZE4UQuwT8ZnspQBAIQ8zGIJFSYODNmgVNsQgnav4QCg=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.3/Meso1226-843.delta" sparkle:deltaFrom="843" length="16110174" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4cN77raut8ShdwxgOOhhI/KtohlzKTntpNe8tdwulp1C1BHsmZS+S6817vd/jRQxqQIPs2Bej5bWSnYFnIj0AQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.2</title>
             <pubDate>Thu, 15 Oct 2026 22:52:31 +0800</pubDate>
             <link>https://github.com/linmi/meso/releases</link>
@@ -131,33 +166,6 @@ Requires macOS 14 or later. Ports, cables and displays need a Mac with Apple sil
             <sparkle:deltas>
                 <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.1/Meso529-521.delta" sparkle:deltaFrom="521" length="888494" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qhd9iOpdTRVOHQZ52UTbxN1WJystL4ndCZzslblO9rh5588x05e2h6kj6BUueqtp3JCaAKN1j/vytwQFnNUeBg=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Mon, 12 Oct 2026 07:24:07 +0800</pubDate>
-            <link>https://github.com/linmi/meso/releases</link>
-            <sparkle:version>521</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## Meso 0.2.0
-
-Mose is now **Meso**. This version can't update itself from Mose: download Meso once from [meso.ac](https://meso.ac) and open it. Your settings, recipes, paired computers and AI keys move over on their own. You can then delete Mose.
-
-**New**
-- Welcome tour: try a few scene recipes as you set up, turn on the ones you like, and choose to open Meso at login.
-
-**Improved**
-- Trackpad place gestures: the title bar, Dock and menu bar are drawn on your own desktop picture with the apps from your own Dock, and each gesture plays where it happens.
-- Scene Recipes: trackpad and keyboard recipes come first, the device tabs stay at the top while you scroll, the page responds faster, and each picture presses its control in time with the effect.
-- The sidebar keeps Cables folded, with a count, and shows a reader's picture and a laptop badge on built-in devices.
-- Sending a folder of thousands of files starts sooner, and memory is given back after large transfers.
-
-**Fixed**
-- Left half and right half didn't move the window.
-
-Requires macOS 14 or later. Ports, cables and displays need a Mac with Apple silicon.
-]]></description>
-            <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.0/Meso-0.2.0.zip" length="18255112" type="application/octet-stream" sparkle:edSignature="YWExhNUgKnraQFnLTfvT8TnDAyNAZhcm8JfWJU1DQ7dcunn/3kKEJV0UOQWiFgB7BJrNZgPWiy+Avcgtk80dBA=="/>
         </item>
     </channel>
 </rss>
