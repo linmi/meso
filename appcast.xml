@@ -182,11 +182,11 @@ Requires macOS 14 or later. Ports, cables and displays need a Mac with Apple sil
         </item>
         <item>
             <title>0.2.5</title>
-            <pubDate>Mon, 16 Nov 2026 18:25:01 +0800</pubDate>
+            <pubDate>Tue, 17 Nov 2026 01:37:16 +0800</pubDate>
             <link>https://github.com/linmi/meso/releases</link>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:minimumUpdateVersion>1154</sparkle:minimumUpdateVersion>
-            <sparkle:version>11299</sparkle:version>
+            <sparkle:version>11336</sparkle:version>
             <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -202,10 +202,7 @@ This is a beta of the new Meso, rebuilt from the ground up, on its way to 0.3.0.
 **Updates**
 - This build follows the Beta channel and updates itself to later betas.
 ]]></description>
-            <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11299/Meso-0.2.5-beta.11299-apple-silicon.tar.xz" length="29829140" type="application/octet-stream" sparkle:edSignature="rJMz4qKKXnYSvFl9lYUYt2Q4/boUzkaW7T1Jo9sUjH7HocRa9zvs/9Md+3Hlk75errhUhrjOY+NnFwwJSexPAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11299/Meso11299-11290-apple-silicon.delta" sparkle:deltaFrom="11290" length="8480282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7ZN6btHmYUusktalamWHs2dQ+vkARqA4vTXEqzbf5fHh0WTnfDZP342xRSJS5LeLP+ikdaiIX66MRFGt6k5UBQ=="/>
-            </sparkle:deltas>
+            <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11336/Meso-0.2.5-beta.11336-apple-silicon.tar.xz" length="30238900" type="application/octet-stream" sparkle:edSignature="gcv83Ceh4Gn7/xvo/DcI7RS3sUyZs327z/ge1nzo3/U3ObPWtUs1UiIDTJ/KJXylZYEOWjCYy1JjjL1E8+q1DA=="/>
         </item>
     </channel>
 </rss>
