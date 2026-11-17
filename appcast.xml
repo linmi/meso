@@ -182,11 +182,11 @@ Requires macOS 14 or later. Ports, cables and displays need a Mac with Apple sil
         </item>
         <item>
             <title>0.2.5</title>
-            <pubDate>Tue, 17 Nov 2026 14:28:55 +0800</pubDate>
+            <pubDate>Tue, 17 Nov 2026 16:44:02 +0800</pubDate>
             <link>https://github.com/linmi/meso/releases</link>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:minimumUpdateVersion>1154</sparkle:minimumUpdateVersion>
-            <sparkle:version>11383</sparkle:version>
+            <sparkle:version>11391</sparkle:version>
             <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -203,16 +203,18 @@ This is a beta of the new Meso, rebuilt from the ground up, on its way to 0.3.0.
 - This build follows the Beta channel and updates itself to later betas.
 
 **New in this build**
-- Shelf: a picture dragged from a web page no longer disappears when the browser doesn't hand over its file. Its image goes on the shelf, or its link when there's no image.
-- The menu bar's cards for displays and this Mac match the other devices' cards, and a display's description stays on one line.
-- Clipboard's Shortcuts in Settings start with Open Clipboard, and there are five Paste Favorite actions instead of nine.
+- Shelf: dropping a picture dragged from a web page no longer makes Meso quit. The last beta still did.
+- Plugins are ready as soon as Meso opens. Each one used to fail its first start and come back a moment later.
+- Open App, used on the app that's already in front, hides it without reporting that it didn't open.
+- Meso's log is much shorter: a computer that's away and unchanged trackpad gestures are no longer written every time.
 ]]></description>
-            <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11383/Meso-0.2.5-beta.11383-apple-silicon.tar.xz" length="30601948" type="application/octet-stream" sparkle:edSignature="KfVFjyP8OaY+mOYn3eKfbf2dvD8deQ2BYdXJ4m3uGrIe697UXaRUmgIV35BGCJEjuGOofsWIt4Nb2ySN1g6QCQ=="/>
+            <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11391/Meso-0.2.5-beta.11391-apple-silicon.tar.xz" length="30605240" type="application/octet-stream" sparkle:edSignature="zC2WStk/NmzBZajAvmXRqLSsyTgvDgnk+b3eztKXq6q4Gx7ZR4me0G+385GdYJZO2xTL/Ep+ggPaZEPbcch5AA=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11383/Meso11383-11376-apple-silicon.delta" sparkle:deltaFrom="11376" length="2953434" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="h/nIO9xWY0NtfImNBYlTQt5t28XfLrCUCL2hLxYXgG+0xPW1BBYUk3e1LiTy9ScL60oA09wevzopbFxbcAD5Cw=="/>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11383/Meso11383-11336-apple-silicon.delta" sparkle:deltaFrom="11336" length="14679190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tyCoJ2KMm9Ho6ZZCZBOEOeSu/nZmW6aHsDuuFHk77ZEMlQEhpkSYBb2nvvDgXi8NXdYx2lfMuzimbVjxKCfNCw=="/>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11383/Meso11383-11299-apple-silicon.delta" sparkle:deltaFrom="11299" length="16263286" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Hsjqirjt/7Xod9d4Z1JyJTHIvRQaxWCu7gu+zte/Q676N+46tIJeW92goHBSYRiJ0UPZezcqOGr6eTamFGg/Bg=="/>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11383/Meso11383-11290-apple-silicon.delta" sparkle:deltaFrom="11290" length="16643930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="L7gdo/m1SWScfUEtGxgeeGB6rjqRhKj2fzOlB/Gc/UFPHbx9OaPe6piRyKyaWoDO/yZKhUUcOYtPqykCZ2lNDw=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11391/Meso11391-11383-apple-silicon.delta" sparkle:deltaFrom="11383" length="3828526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Zjnfy2H755ubVR80Uij7spvmy5tQCVRkVMmPFugghI3uKXTHwIftxmvm8T6Zol8Kso2EDZ96/bOmCeVhLSUWBQ=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11391/Meso11391-11376-apple-silicon.delta" sparkle:deltaFrom="11376" length="4916466" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JJWtixSFSnWpzObdFWyPuI9tO0xqye6LrBrXzir8joGGhF9nNFaqQegJEw4EcxJU6XP9oI0tBLnG+hA4BP/OCA=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11391/Meso11391-11336-apple-silicon.delta" sparkle:deltaFrom="11336" length="14716478" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0moQBdtDBBao265//Pl/rnDneDKAPwC03Xo4HdBzC9P3dXlpXAszeZc1mFdVKQkpBWYWCW7eLozkYBKWIpL7CA=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11391/Meso11391-11299-apple-silicon.delta" sparkle:deltaFrom="11299" length="16273590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/x+O2YKv2NxEEsptOeovWN1gLSk4UA6bt2iIbkfTxbYyrk5Y5GjKqPUNojxlxDBnD3vkS2UNn0qYcQcz880WBA=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11391/Meso11391-11290-apple-silicon.delta" sparkle:deltaFrom="11290" length="16655558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hYrDi965gR1YGAsd3zdLGbOWX5MFbMt4JI3lqheb+w5uhXkjJBexp2Hc0kxu9se746slAYQ5OAw/1l8z4MdKCg=="/>
             </sparkle:deltas>
         </item>
     </channel>
