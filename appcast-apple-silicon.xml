@@ -4,11 +4,11 @@
         <title>Meso</title>
         <item>
             <title>0.2.5</title>
-            <pubDate>Tue, 17 Nov 2026 01:37:16 +0800</pubDate>
+            <pubDate>Tue, 17 Nov 2026 12:15:16 +0800</pubDate>
             <link>https://github.com/linmi/meso/releases</link>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:minimumUpdateVersion>1154</sparkle:minimumUpdateVersion>
-            <sparkle:version>11336</sparkle:version>
+            <sparkle:version>11376</sparkle:version>
             <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -23,8 +23,20 @@ This is a beta of the new Meso, rebuilt from the ground up, on its way to 0.3.0.
 
 **Updates**
 - This build follows the Beta channel and updates itself to later betas.
+
+**New in this build**
+- Disk Cleanup: on This Mac, the storage tile opens a page that draws your disk as squares and finds what can go: app caches, logs, Xcode data, package caches, project build folders, old downloads and large files. What you pick goes to the Trash, and nothing is deleted for good.
+- Screenshots can be edited: Edit (⌘E) on a screenshot's card sets its background, margin, corners and shadow.
+- The welcome tour asks for an invite code (a Mac that ran Meso 0.2 needs none), and its permissions step shows what each permission is for.
+- Meso's menu bar icon is the pebble from its app icon.
+- Another app's commands in the Does list carry that app's icon.
 ]]></description>
-            <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11336/Meso-0.2.5-beta.11336-apple-silicon.tar.xz" length="30238900" type="application/octet-stream" sparkle:edSignature="gcv83Ceh4Gn7/xvo/DcI7RS3sUyZs327z/ge1nzo3/U3ObPWtUs1UiIDTJ/KJXylZYEOWjCYy1JjjL1E8+q1DA=="/>
+            <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11376/Meso-0.2.5-beta.11376-apple-silicon.tar.xz" length="30596868" type="application/octet-stream" sparkle:edSignature="I7VAielULj+ZZnZhBEca4naN/Zyu46yZSaXNX1cDM3rLbtV1edxFoSqKarTFzws8W6Zs2tzQaFPeOKKaKRNaBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11376/Meso11376-11336-apple-silicon.delta" sparkle:deltaFrom="11336" length="14505902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aj+pp6E1fA0fu1Bg7ekPSjELjhFEOydl1NTXzuV2VGSFacEPSwMRCFlI7G7RvIJkSswPGjyoQytg1EyvvYYLCA=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11376/Meso11376-11299-apple-silicon.delta" sparkle:deltaFrom="11299" length="16191778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SmHH80/vTYLtT8GXwTlThmtvgFwaZ187GP9sLKUSXVJcac80pQMJQ0fX6PN+1yV/XnY7WkuqUjJmrf6X7R63Bw=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11376/Meso11376-11290-apple-silicon.delta" sparkle:deltaFrom="11290" length="16611394" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FhKsQZ/rRkL2zn3iumc4CyMbmry/2PPVCPGpayHTGiTvOUiKOichM0nTo5T57brwUxFJyD/e8QoAfsVXTIWQAg=="/>
+            </sparkle:deltas>
         </item>
         <item>
             <title>0.2.5</title>
