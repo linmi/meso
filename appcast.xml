@@ -182,11 +182,11 @@ Requires macOS 14 or later. Ports, cables and displays need a Mac with Apple sil
         </item>
         <item>
             <title>0.2.5</title>
-            <pubDate>Tue, 17 Nov 2026 12:15:16 +0800</pubDate>
+            <pubDate>Tue, 17 Nov 2026 14:28:55 +0800</pubDate>
             <link>https://github.com/linmi/meso/releases</link>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:minimumUpdateVersion>1154</sparkle:minimumUpdateVersion>
-            <sparkle:version>11376</sparkle:version>
+            <sparkle:version>11383</sparkle:version>
             <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -203,17 +203,16 @@ This is a beta of the new Meso, rebuilt from the ground up, on its way to 0.3.0.
 - This build follows the Beta channel and updates itself to later betas.
 
 **New in this build**
-- Disk Cleanup: on This Mac, the storage tile opens a page that draws your disk as squares and finds what can go: app caches, logs, Xcode data, package caches, project build folders, old downloads and large files. What you pick goes to the Trash, and nothing is deleted for good.
-- Screenshots can be edited: Edit (⌘E) on a screenshot's card sets its background, margin, corners and shadow.
-- The welcome tour asks for an invite code (a Mac that ran Meso 0.2 needs none), and its permissions step shows what each permission is for.
-- Meso's menu bar icon is the pebble from its app icon.
-- Another app's commands in the Does list carry that app's icon.
+- Shelf: a picture dragged from a web page no longer disappears when the browser doesn't hand over its file. Its image goes on the shelf, or its link when there's no image.
+- The menu bar's cards for displays and this Mac match the other devices' cards, and a display's description stays on one line.
+- Clipboard's Shortcuts in Settings start with Open Clipboard, and there are five Paste Favorite actions instead of nine.
 ]]></description>
-            <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11376/Meso-0.2.5-beta.11376-apple-silicon.tar.xz" length="30596868" type="application/octet-stream" sparkle:edSignature="I7VAielULj+ZZnZhBEca4naN/Zyu46yZSaXNX1cDM3rLbtV1edxFoSqKarTFzws8W6Zs2tzQaFPeOKKaKRNaBQ=="/>
+            <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11383/Meso-0.2.5-beta.11383-apple-silicon.tar.xz" length="30601948" type="application/octet-stream" sparkle:edSignature="KfVFjyP8OaY+mOYn3eKfbf2dvD8deQ2BYdXJ4m3uGrIe697UXaRUmgIV35BGCJEjuGOofsWIt4Nb2ySN1g6QCQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11376/Meso11376-11336-apple-silicon.delta" sparkle:deltaFrom="11336" length="14505902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aj+pp6E1fA0fu1Bg7ekPSjELjhFEOydl1NTXzuV2VGSFacEPSwMRCFlI7G7RvIJkSswPGjyoQytg1EyvvYYLCA=="/>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11376/Meso11376-11299-apple-silicon.delta" sparkle:deltaFrom="11299" length="16191778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SmHH80/vTYLtT8GXwTlThmtvgFwaZ187GP9sLKUSXVJcac80pQMJQ0fX6PN+1yV/XnY7WkuqUjJmrf6X7R63Bw=="/>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11376/Meso11376-11290-apple-silicon.delta" sparkle:deltaFrom="11290" length="16611394" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FhKsQZ/rRkL2zn3iumc4CyMbmry/2PPVCPGpayHTGiTvOUiKOichM0nTo5T57brwUxFJyD/e8QoAfsVXTIWQAg=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11383/Meso11383-11376-apple-silicon.delta" sparkle:deltaFrom="11376" length="2953434" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="h/nIO9xWY0NtfImNBYlTQt5t28XfLrCUCL2hLxYXgG+0xPW1BBYUk3e1LiTy9ScL60oA09wevzopbFxbcAD5Cw=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11383/Meso11383-11336-apple-silicon.delta" sparkle:deltaFrom="11336" length="14679190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tyCoJ2KMm9Ho6ZZCZBOEOeSu/nZmW6aHsDuuFHk77ZEMlQEhpkSYBb2nvvDgXi8NXdYx2lfMuzimbVjxKCfNCw=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11383/Meso11383-11299-apple-silicon.delta" sparkle:deltaFrom="11299" length="16263286" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Hsjqirjt/7Xod9d4Z1JyJTHIvRQaxWCu7gu+zte/Q676N+46tIJeW92goHBSYRiJ0UPZezcqOGr6eTamFGg/Bg=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11383/Meso11383-11290-apple-silicon.delta" sparkle:deltaFrom="11290" length="16643930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="L7gdo/m1SWScfUEtGxgeeGB6rjqRhKj2fzOlB/Gc/UFPHbx9OaPe6piRyKyaWoDO/yZKhUUcOYtPqykCZ2lNDw=="/>
             </sparkle:deltas>
         </item>
     </channel>

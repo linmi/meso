@@ -4,6 +4,41 @@
         <title>Meso</title>
         <item>
             <title>0.2.5</title>
+            <pubDate>Tue, 17 Nov 2026 14:28:55 +0800</pubDate>
+            <link>https://github.com/linmi/meso/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumUpdateVersion>1154</sparkle:minimumUpdateVersion>
+            <sparkle:version>11383</sparkle:version>
+            <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Meso 0.2.5 Beta
+
+This is a beta of the new Meso, rebuilt from the ground up, on its way to 0.3.0. It has had far less testing than 0.2.4: install it only if you're happy to report what breaks. For now it runs on Macs with Apple silicon only.
+
+**Coming from 0.2.4**
+- The first time it opens, Meso brings over your settings, devices, buttons, keys, gestures and sequences, Time, usage statistics, Kindle export records and AI keys.
+- Everything 0.2.4 wrote is kept untouched in `~/Library/Application Support/Meso/Backups/Meso 0.2`. To go back, install 0.2.4 again and move those files back.
+- Not brought over: recipes, the menu bar layout, the downloader's list of past jobs, and a few actions the new Meso doesn't have yet.
+
+**Updates**
+- This build follows the Beta channel and updates itself to later betas.
+
+**New in this build**
+- Shelf: a picture dragged from a web page no longer disappears when the browser doesn't hand over its file. Its image goes on the shelf, or its link when there's no image.
+- The menu bar's cards for displays and this Mac match the other devices' cards, and a display's description stays on one line.
+- Clipboard's Shortcuts in Settings start with Open Clipboard, and there are five Paste Favorite actions instead of nine.
+]]></description>
+            <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11383/Meso-0.2.5-beta.11383-apple-silicon.tar.xz" length="30601948" type="application/octet-stream" sparkle:edSignature="KfVFjyP8OaY+mOYn3eKfbf2dvD8deQ2BYdXJ4m3uGrIe697UXaRUmgIV35BGCJEjuGOofsWIt4Nb2ySN1g6QCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11383/Meso11383-11376-apple-silicon.delta" sparkle:deltaFrom="11376" length="2953434" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="h/nIO9xWY0NtfImNBYlTQt5t28XfLrCUCL2hLxYXgG+0xPW1BBYUk3e1LiTy9ScL60oA09wevzopbFxbcAD5Cw=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11383/Meso11383-11336-apple-silicon.delta" sparkle:deltaFrom="11336" length="14679190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tyCoJ2KMm9Ho6ZZCZBOEOeSu/nZmW6aHsDuuFHk77ZEMlQEhpkSYBb2nvvDgXi8NXdYx2lfMuzimbVjxKCfNCw=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11383/Meso11383-11299-apple-silicon.delta" sparkle:deltaFrom="11299" length="16263286" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Hsjqirjt/7Xod9d4Z1JyJTHIvRQaxWCu7gu+zte/Q676N+46tIJeW92goHBSYRiJ0UPZezcqOGr6eTamFGg/Bg=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11383/Meso11383-11290-apple-silicon.delta" sparkle:deltaFrom="11290" length="16643930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="L7gdo/m1SWScfUEtGxgeeGB6rjqRhKj2fzOlB/Gc/UFPHbx9OaPe6piRyKyaWoDO/yZKhUUcOYtPqykCZ2lNDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.2.5</title>
             <pubDate>Tue, 17 Nov 2026 12:15:16 +0800</pubDate>
             <link>https://github.com/linmi/meso/releases</link>
             <sparkle:channel>beta</sparkle:channel>
@@ -64,30 +99,6 @@ This is a beta of the new Meso, rebuilt from the ground up, on its way to 0.3.0.
             <sparkle:deltas>
                 <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11299/Meso11299-11290-apple-silicon.delta" sparkle:deltaFrom="11290" length="8480282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7ZN6btHmYUusktalamWHs2dQ+vkARqA4vTXEqzbf5fHh0WTnfDZP342xRSJS5LeLP+ikdaiIX66MRFGt6k5UBQ=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.5</title>
-            <pubDate>Mon, 16 Nov 2026 17:16:34 +0800</pubDate>
-            <link>https://github.com/linmi/meso/releases</link>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:minimumUpdateVersion>1154</sparkle:minimumUpdateVersion>
-            <sparkle:version>11290</sparkle:version>
-            <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[## Meso 0.2.5 Beta
-
-This is a beta of the new Meso, rebuilt from the ground up, on its way to 0.3.0. It has had far less testing than 0.2.4: install it only if you're happy to report what breaks. For now it runs on Macs with Apple silicon only.
-
-**Coming from 0.2.4**
-- The first time it opens, Meso brings over your settings, devices, buttons, keys, gestures and sequences, Time, usage statistics, Kindle export records and AI keys.
-- Everything 0.2.4 wrote is kept untouched in `~/Library/Application Support/Meso/Backups/Meso 0.2`. To go back, install 0.2.4 again and move those files back.
-- Not brought over: recipes, the menu bar layout, the downloader's list of past jobs, and a few actions the new Meso doesn't have yet.
-
-**Updates**
-- This build follows the Beta channel and updates itself to later betas.
-]]></description>
-            <enclosure url="https://github.com/linmi/meso/releases/download/v0.2.5-beta.11290/Meso-0.2.5-beta.11290-apple-silicon.tar.xz" length="23605248" type="application/octet-stream" sparkle:edSignature="72gC0o1WabanNqE/MB1Z83T9hSaaS6L0Fyvzm81o5Z7vWrV80mu3XPwHWeYF8SR9eguk7yLoFJAyJYX741z3CA=="/>
         </item>
     </channel>
 </rss>
