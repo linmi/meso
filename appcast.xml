@@ -210,5 +210,37 @@ Requires macOS 14 or later. Ports, cables and displays need a Mac with Apple sil
                 <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.3/Meso11574-11383-apple-silicon.delta" sparkle:deltaFrom="11383" length="17242810" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FqWg00ZL3QNRbrwKJgEtWJYXsb8WZm5VcohV33nf9joulA2ciyB8hTVjfVUxYgJkUdZV/pGxXqzBfSQ0cZQNAQ=="/>
             </sparkle:deltas>
         </item>
+        <item>
+            <title>0.3.4</title>
+            <pubDate>Sat, 21 Nov 2026 03:32:46 +0800</pubDate>
+            <link>https://github.com/linmi/meso/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumUpdateVersion>1154</sparkle:minimumUpdateVersion>
+            <sparkle:version>11685</sparkle:version>
+            <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Meso 0.3.4 Beta
+
+This beta tries the plugin store's online catalog. It has had less testing than 0.3.3: install it only if you're happy to report what breaks.
+
+**Plugin store**
+- Plugins you don't have are listed under More Plugins, with Install on each tile. A plugin that came with Meso and that you removed can be installed again from here.
+- A newer version of an installed plugin shows Update on its tile, and a line at the top of the store lists them with Update All.
+- Plugins update by themselves once Meso reads the catalog, after launch and once a day. A plugin that's busy, downloading or recording, updates once it's done. Turn this off in the store's ··· menu, which also checks for updates now.
+- Downloads show their progress on the tile and on the plugin's page.
+
+**Updates**
+- This build follows the Beta channel and updates itself to later betas.
+]]></description>
+            <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.4-beta.11685/Meso-0.3.4-beta.11685-apple-silicon.tar.xz" length="36069260" type="application/octet-stream" sparkle:edSignature="7IzIU7zTLQ+Q5S4Ihbu/vtz2khxkNCXO18HRUZM4EnHEcUY2DKbMUEwRATuSPsyMTiy3XBTPshZ48CQA5xGeCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.4-beta.11685/Meso11685-11574-apple-silicon.delta" sparkle:deltaFrom="11574" length="22399306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9wip02TK4zaWA2b8Li2J8CuipfTrCG7YeGJBwi/RPE/xflPv9/I8WAaDo0YfjAK3TWrzXoYvcdwcbLuq0/+FBw=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.4-beta.11685/Meso11685-11535-apple-silicon.delta" sparkle:deltaFrom="11535" length="22772194" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZZo/vYbd1VMXu74rOj3zs/5uiQQkHiSekncWQZuKhOGhQCZPauHPL4hlfeRMdOruLTkNfkX5UzGMrZEPwvHCDA=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.4-beta.11685/Meso11685-11509-apple-silicon.delta" sparkle:deltaFrom="11509" length="22823186" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6Y6m74xmjNPxhkQT0IbMFSIqH8assaGZRdQxgjunkNomn6dtvhoFRUra/AIELXlcVQGFA5rsLduAUL7ucGspCw=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.4-beta.11685/Meso11685-11393-apple-silicon.delta" sparkle:deltaFrom="11393" length="24068390" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zFIs+iBYa5sT9B/R9OXH7u7wODL7LbRrmlvYt9xsrtWk4kh2tCQ90chOXme2CT3BqEKm+z8l+/w+BPCiaZq2AA=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.4-beta.11685/Meso11685-11391-apple-silicon.delta" sparkle:deltaFrom="11391" length="24065806" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Koxhyhltgnd/sh2i8q1M26oUYakxInAUTatuisOyDI6Ies45LMExBpmO+bssd4b/mZWllYukTe6LsMhKojPsDA=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>
