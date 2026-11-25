@@ -212,11 +212,11 @@ Requires macOS 14 or later. Ports, cables and displays need a Mac with Apple sil
         </item>
         <item>
             <title>0.3.4</title>
-            <pubDate>Wed, 25 Nov 2026 12:11:48 +0800</pubDate>
+            <pubDate>Wed, 25 Nov 2026 14:51:32 +0800</pubDate>
             <link>https://github.com/linmi/meso/releases</link>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:minimumUpdateVersion>1154</sparkle:minimumUpdateVersion>
-            <sparkle:version>12025</sparkle:version>
+            <sparkle:version>12030</sparkle:version>
             <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -233,7 +233,10 @@ This beta tries the plugin store's online catalog. It has had less testing than 
 **Updates**
 - This build follows the Beta channel and updates itself to later betas.
 ]]></description>
-            <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.4-beta.12025/Meso-0.3.4-beta.12025-apple-silicon.tar.xz" length="36267060" type="application/octet-stream" sparkle:edSignature="J95kQdMgWi7bF5dVHd9NMOLr7ZAHmbz9GIumN4qni1uK1tYu3o7eD2iwZNtLWJSdH02+yi8ANc7xk9albQDOAQ=="/>
+            <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.4-beta.12030/Meso-0.3.4-beta.12030-apple-silicon.tar.xz" length="38225744" type="application/octet-stream" sparkle:edSignature="DLtuVuMI6Gv/LXLBvTr9wVN0ZnxdPefRTTMSgBo3s5u9b862NMYXZIL8WQiKBUK9qLZ6JudWtUpxvAgHM9c+Cw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.4-beta.12030/Meso12030-12025-apple-silicon.delta" sparkle:deltaFrom="12025" length="18360490" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zmw1HvSWujSC1+WUvSXrz/70L7GMkDg/4xx23sBy0uY9WX0EUPHJw3f9jE3R7EAcPnt5EvZd2AKlHagGO78FDw=="/>
+            </sparkle:deltas>
         </item>
     </channel>
 </rss>

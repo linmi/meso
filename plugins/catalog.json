@@ -10,9 +10,9 @@
       },
       "id" : "capture",
       "package" : {
-        "sha256" : "ef38018f43f38971e9aefd4b685f808d5346ced35fab03c02ed85c418162c6aa",
-        "size" : 2810816,
-        "url" : "https://github.com/linmi/meso/releases/download/v0.3.4-beta.12025/capture-0.20.0.mesoplugin"
+        "sha256" : "e5936ea3a013a34f8caa88d7358153bd5998d07942733bab0484f70a2ddd4ac4",
+        "size" : 2822351,
+        "url" : "https://github.com/linmi/meso/releases/download/v0.3.4-beta.12030/capture-0.20.0.mesoplugin"
       },
       "version" : "0.20.0"
     },
@@ -25,9 +25,9 @@
       },
       "id" : "compress",
       "package" : {
-        "sha256" : "e4bf1cf22a9ad13c5d4e31caeb61d2b20ddce857252009102baf8befe206fbd8",
-        "size" : 716923,
-        "url" : "https://github.com/linmi/meso/releases/download/v0.3.4-beta.12025/compress-0.2.0.mesoplugin"
+        "sha256" : "f69049c3bc86d488f1a984956cd5d46e71243a14b7972118ea3d10b47c98078d",
+        "size" : 727148,
+        "url" : "https://github.com/linmi/meso/releases/download/v0.3.4-beta.12030/compress-0.2.0.mesoplugin"
       },
       "version" : "0.2.0"
     },
@@ -40,9 +40,9 @@
       },
       "id" : "downloader",
       "package" : {
-        "sha256" : "34a123bfccb12bbbd4384418601fd782b70e0b13156f5d5b18198046162267e0",
-        "size" : 1548437,
-        "url" : "https://github.com/linmi/meso/releases/download/v0.3.4-beta.12025/downloader-0.5.2.mesoplugin"
+        "sha256" : "110aa8e5f1bdb3c53cd6240a34dbd4d318f0d1384bab6877253e341dd1afa14d",
+        "size" : 1559411,
+        "url" : "https://github.com/linmi/meso/releases/download/v0.3.4-beta.12030/downloader-0.5.2.mesoplugin"
       },
       "version" : "0.5.2"
     },
@@ -55,9 +55,9 @@
       },
       "id" : "localmodel",
       "package" : {
-        "sha256" : "c9d2a5d245c0ca6c6b250f661a9c389541baffba2e770f4df511025d51262583",
-        "size" : 5726885,
-        "url" : "https://github.com/linmi/meso/releases/download/v0.3.4-beta.12025/localmodel-0.2.2.mesoplugin"
+        "sha256" : "15b3f3ee52fde49c8ec77538b73e79b8f673efbb1b5929952b82ac178b014875",
+        "size" : 5738375,
+        "url" : "https://github.com/linmi/meso/releases/download/v0.3.4-beta.12030/localmodel-0.2.2.mesoplugin"
       },
       "version" : "0.2.2"
     },
@@ -70,9 +70,9 @@
       },
       "id" : "media",
       "package" : {
-        "sha256" : "442b3869d0963435ca0b0a3f95ecfccb0390f5e7efacf8cab584534e3de6df9b",
-        "size" : 1088397,
-        "url" : "https://github.com/linmi/meso/releases/download/v0.3.4-beta.12025/media-0.5.0.mesoplugin"
+        "sha256" : "830306143a71fa2eb3795efb59f6f388a99f07b21362a39fcbe704d0458338aa",
+        "size" : 1097784,
+        "url" : "https://github.com/linmi/meso/releases/download/v0.3.4-beta.12030/media-0.5.0.mesoplugin"
       },
       "version" : "0.5.0"
     },
@@ -85,9 +85,9 @@
       },
       "id" : "nintendo",
       "package" : {
-        "sha256" : "1c18bd637b7b4e91882debaa9ccfadf5ca3e61c728f9a0befaef4bb1b30f1d06",
-        "size" : 1462333,
-        "url" : "https://github.com/linmi/meso/releases/download/v0.3.4-beta.12025/nintendo-0.1.0.mesoplugin"
+        "sha256" : "0761b4519dbe5d61c6d6663fd512da8a25df26decca168e59a9907265dbf3b59",
+        "size" : 1483696,
+        "url" : "https://github.com/linmi/meso/releases/download/v0.3.4-beta.12030/nintendo-0.1.0.mesoplugin"
       },
       "version" : "0.1.0"
     },
@@ -100,9 +100,9 @@
       },
       "id" : "razer",
       "package" : {
-        "sha256" : "29cf9075bf58cdc8a62c272f43bcf385f0cc2cf5e22ff29dc80d57989a9c5423",
-        "size" : 1140525,
-        "url" : "https://github.com/linmi/meso/releases/download/v0.3.4-beta.12025/razer-0.1.0.mesoplugin"
+        "sha256" : "bc1721a8ea948803c576c7082f2aa7e8a58caa39c7eb2060e1b09559c3a862e4",
+        "size" : 1163182,
+        "url" : "https://github.com/linmi/meso/releases/download/v0.3.4-beta.12030/razer-0.1.0.mesoplugin"
       },
       "version" : "0.1.0"
     },
@@ -115,9 +115,9 @@
       },
       "id" : "ulanzi",
       "package" : {
-        "sha256" : "e0113043f369db7a0e33995087f024e4b783413c6c9ac675f3566803b348f003",
-        "size" : 1619542,
-        "url" : "https://github.com/linmi/meso/releases/download/v0.3.4-beta.12025/ulanzi-0.1.2.mesoplugin"
+        "sha256" : "13f74cd0611501720d4aedd3864438babf8778467729eac144685abf63805a1f",
+        "size" : 1642623,
+        "url" : "https://github.com/linmi/meso/releases/download/v0.3.4-beta.12030/ulanzi-0.1.2.mesoplugin"
       },
       "version" : "0.1.2"
     },
@@ -130,9 +130,9 @@
       },
       "id" : "wallpaper",
       "package" : {
-        "sha256" : "15155e7d5eb92d51e0712879d1048dea58eb88e994502969ec182dbe81407cff",
-        "size" : 687939,
-        "url" : "https://github.com/linmi/meso/releases/download/v0.3.4-beta.12025/wallpaper-0.4.2.mesoplugin"
+        "sha256" : "13a16ae80c42e1d7ce468a043f9a8261e3e67f7184909d450a65f900595659fe",
+        "size" : 699120,
+        "url" : "https://github.com/linmi/meso/releases/download/v0.3.4-beta.12030/wallpaper-0.4.2.mesoplugin"
       },
       "version" : "0.4.2"
     }
