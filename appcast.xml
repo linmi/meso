@@ -212,11 +212,11 @@ Requires macOS 14 or later. Ports, cables and displays need a Mac with Apple sil
         </item>
         <item>
             <title>0.3.4</title>
-            <pubDate>Wed, 25 Nov 2026 21:57:56 +0800</pubDate>
+            <pubDate>Fri, 27 Nov 2026 11:26:41 +0800</pubDate>
             <link>https://github.com/linmi/meso/releases</link>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:minimumUpdateVersion>1154</sparkle:minimumUpdateVersion>
-            <sparkle:version>12043</sparkle:version>
+            <sparkle:version>12159</sparkle:version>
             <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -233,11 +233,7 @@ This beta tries the plugin store's online catalog. It has had less testing than 
 **Updates**
 - This build follows the Beta channel and updates itself to later betas.
 ]]></description>
-            <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.4-beta.12043/Meso-0.3.4-beta.12043-apple-silicon.tar.xz" length="39094964" type="application/octet-stream" sparkle:edSignature="yNKw/uqxsU50oFCDnlLZgmou1z6+N2X+PZGfmQxUyAR9PQmXTJe6d6zKT72fp7NVEZVnXwGBA4BcjncO4FCoBw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.4-beta.12043/Meso12043-12030-apple-silicon.delta" sparkle:deltaFrom="12030" length="18561670" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SESOFjZcRPMw4Y6381msrHuKa9bWoKzV+xAkwXWM0Vb/8eshqvc/4lA7JZPTBmVsvgK4WXTMODNB06Mk7uHBBw=="/>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.4-beta.12043/Meso12043-12025-apple-silicon.delta" sparkle:deltaFrom="12025" length="20089962" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="W+oup9oHB8q6GzBblxXf7itugzZDoT6vSjdeGYAkWT/CfsYvKYkSG7DG+wNlAp//rAEdYqP6BAT6SIfgeFb0Ag=="/>
-            </sparkle:deltas>
+            <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.4-beta.12159/Meso-0.3.4-beta.12159-apple-silicon.tar.xz" length="40948996" type="application/octet-stream" sparkle:edSignature="M+wxGhyTWZ13VIAQ+kIRjhghjI4loBnf5vYsGqs0wR8C/Dtl23fgK595vdx/rXwPxsv9ddwpegmG5lQyyJVIDg=="/>
         </item>
     </channel>
 </rss>
