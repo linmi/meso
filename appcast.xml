@@ -181,61 +181,41 @@ Requires macOS 14 or later. Ports, cables and displays need a Mac with Apple sil
             </sparkle:deltas>
         </item>
         <item>
-            <title>0.3.3</title>
-            <pubDate>Wed, 18 Nov 2026 18:38:26 +0800</pubDate>
+            <title>0.3.5</title>
+            <pubDate>Fri, 27 Nov 2026 18:45:04 +0800</pubDate>
             <link>https://github.com/linmi/meso/releases</link>
             <sparkle:minimumUpdateVersion>1154</sparkle:minimumUpdateVersion>
-            <sparkle:version>11574</sparkle:version>
-            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <sparkle:version>12174</sparkle:version>
+            <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[## Meso 0.3.3
+            <description sparkle:format="markdown"><![CDATA[## Meso 0.3.5
 
-- Keyboards and mice on a 2.4 GHz receiver are found again, and their shortcuts work.
-- Smooth scrolling, scroll direction, speed and tilt settings apply to mice again.
-- Add Device shows a receiver nothing has been heard through yet, and finds its mouse when you move it.
-- Keyboards follow the mouse to the computer that has it, not the next channel.
-- Meso says when a keyboard leaves, a controller arrives, or key and pointer handling stops. Each notice has its own switch in Settings › Devices and starts off; cable alerts now live there too.
-- Granting Input Monitoring after launch takes effect without restarting.
-- Seven crashes fixed in Meso, Studio, Notes and the CLI.
-- Shelf edits, note drafts, clipboard originals, plugin updates and settings survive interruptions and failed writes.
-- Wording polished in all five languages.
+### New
+
+- **Tabs & TouchPlay plugins**: Added the screen-edge **Tabs** drawer uniting browser tabs, app windows, AI chats, projects, categories, and URL deduplication, plus **TouchPlay** for multi-touch trackpad instruments, **Compression**, document-to-Markdown conversion, and individual switches for tool plugins installed straight from the store using packages carried inside Meso.app.
+- **Image Translation & local models**: Translate screen selections, windows, or images in place with bilingual hover cards and optional complex-layout analysis; added on-device writing, translation, and transcription models downloaded on demand, alongside new cloud and on-device providers.
+- **Teleprompter & recording upgrades**: Added a capture-invisible Teleprompter with voice sync, notch mode, and SRT export, plus recording resolution and FPS caps, custom cursor skins, pause power saving, a 12-color presentation pen, and an adjustable magnifier.
+- **Notch HUD & Translucent look**: Added a modular Notch HUD across displays for Now Playing, Calendar with meeting join, notices, batteries, and quick actions, and a new Translucent window style across Meso, Studio, and plugin windows.
+- **Devices, Voice & Feedback**: Added Virtual Keyboard mode supporting password fields and shared held modifiers across keyboards, VIA/Vial keymap editing, MX Master 4 force sensing and haptics, trackpad curves and gestures, interactive 3D device views, voice rewrite over selected text with Dictation History, in-app Feedback, and Feature Usage stats.
+
+### Improved
+
+- **Quick Notes, Clipboard & Launcher**: Upgraded Quick Notes to a block editor with document import and Connected Services; added Space preview and in-place editing in Clipboard; refined Launcher IME handling, scrolling, and matching.
+- **Speed & efficiency**: Faster Meso, Studio, and CLI startup with lower memory use through layered frameworks, GPU-accelerated recording export, and smoother high-refresh scrolling with a live Scroll Monitor.
+- **Controls & clarity**: Clearer error feedback when actions, plugins, or device writes fail, drag-to-reorder lists, faster Studio page switching, and no stray Dock bounce.
+
+### Fixed
+
+- Fixed system audio muted during dictation not restoring after a restart, and clarified paused remaps while Secure Input is active.
+- Fixed inverted mouse scroll direction resetting when Smooth scrolling is off, MX Master 4 haptics muting after wake, and high-refresh scroll glide glitches.
+- Fixed Clipboard preview stealing keyboard focus and crashes when previewing pictures or files.
+- Fixed cloud sync edge cases on interrupted or unreadable writes, Settings losing scroll position on subpage return, and multiple UI and refresh races.
 ]]></description>
-            <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.3/Meso-0.3.3-apple-silicon.tar.xz" length="31247120" type="application/octet-stream" sparkle:edSignature="4mAuP7Kdm5zEsec627ejMCMWVgjZ6zSCP1lAKbEi49LyMPxduimO0m6in1bKg8aH4mm/13/bBfdJSk6QSCuiCg=="/>
+            <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.5/Meso-0.3.5-apple-silicon.tar.xz" length="40506956" type="application/octet-stream" sparkle:edSignature="FncaNPCZr7CeEb53t8gYmqbz8QHiuZoCSGm+MKirAounKHnYNzBrelG7iH8yh08PlG2AwSaryHtjYzwJoirOAA=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.3/Meso11574-11535-apple-silicon.delta" sparkle:deltaFrom="11535" length="13011022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+8ytFu+zAaWpMD0GSTPBfC/ERBxVh5UtFJQsCwecKSuPZQ8G4Dk4aTwVbe131Pzp/OLAbcGBfWxihnlcWmXMBw=="/>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.3/Meso11574-11509-apple-silicon.delta" sparkle:deltaFrom="11509" length="13116278" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DW2vVnledYNKsvJCBasF5/uweV0jXiqIC3jaX+aTOWf2qYRs7UREtoYhIqIjD4LmUlTr+6SaOg5QLFRWDXA3Dw=="/>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.3/Meso11574-11393-apple-silicon.delta" sparkle:deltaFrom="11393" length="17224946" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2CPP+HlpqtHtymGSCmwYRwidf5nApE2FaxdZ6lmh6S9K19Q3MdPIJMf1IO0xFHT5DkoMEQ2HkJGR3LZzzbyBCA=="/>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.3/Meso11574-11391-apple-silicon.delta" sparkle:deltaFrom="11391" length="17222426" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yDKqRq9Zb2KO+LpZ/TRy+FyJur26HjjTbVvSMpUdkTtbXN+sljJRDq9azwehvO+vWiuspP1aTI0IvFIA/zhKBw=="/>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.3/Meso11574-11383-apple-silicon.delta" sparkle:deltaFrom="11383" length="17242810" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FqWg00ZL3QNRbrwKJgEtWJYXsb8WZm5VcohV33nf9joulA2ciyB8hTVjfVUxYgJkUdZV/pGxXqzBfSQ0cZQNAQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.4</title>
-            <pubDate>Fri, 27 Nov 2026 12:28:34 +0800</pubDate>
-            <link>https://github.com/linmi/meso/releases</link>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:minimumUpdateVersion>1154</sparkle:minimumUpdateVersion>
-            <sparkle:version>12160</sparkle:version>
-            <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[## Meso 0.3.4 Beta
-
-This beta tries the plugin store's online catalog. It has had less testing than 0.3.3: install it only if you're happy to report what breaks.
-
-**Plugin store**
-- Plugins you don't have are listed under More Plugins, with Install on each tile. A plugin that came with Meso and that you removed can be installed again from here.
-- A newer version of an installed plugin shows Update on its tile, and a line at the top of the store lists them with Update All.
-- Plugins update by themselves once Meso reads the catalog, after launch and once a day. A plugin that's busy, downloading or recording, updates once it's done. Turn this off in the store's ··· menu, which also checks for updates now.
-- Downloads show their progress on the tile and on the plugin's page.
-
-**Updates**
-- This build follows the Beta channel and updates itself to later betas.
-]]></description>
-            <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.4-beta.12160/Meso-0.3.4-beta.12160-apple-silicon.tar.xz" length="42388248" type="application/octet-stream" sparkle:edSignature="2U2oIJMoQO6mkO/TSburNrBNGTQs51belh9TZJvwbFjpv9JFF+1d7tKmogsQBKaq3rCzuSLfYZdtMEmyvX0gBQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.4-beta.12160/Meso12160-12159-apple-silicon.delta" sparkle:deltaFrom="12159" length="1670078" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="L27aRXErSjoXYkxJ/itboltJkrczDwHsJBGQuXb/DikRBo7r28V3PEVFNjpDCK7FdNguYuBFG4MZ1GN0GVGDCQ=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.5/Meso12174-12160-apple-silicon.delta" sparkle:deltaFrom="12160" length="14894530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="S+APlM/XTmabACs0fy5I8X/tCVzDa3h1/5C8bI5ZYXegwqZHztxOiXVTcb4tRvgbW9skkyIojvvXANaf8dt/AQ=="/>
+                <enclosure url="https://github.com/linmi/meso/releases/download/v0.3.5/Meso12174-12159-apple-silicon.delta" sparkle:deltaFrom="12159" length="14894182" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="468560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dYs3ovXd2poM7LAAjrbJQivwA72AG+i+EEPtjIYFUKYo3Eg/O0YlOKmNwtSrNREqOUovM3UFhUoDa6Wzy17fBw=="/>
             </sparkle:deltas>
         </item>
     </channel>
